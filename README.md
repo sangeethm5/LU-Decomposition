@@ -21,6 +21,8 @@ Program to find the L and U matrix.
 Developed by: 
 RegisterNumber: 
 */
+<img width="732" height="322" alt="{C38ECB29-EE00-4B22-93C1-3392EF9A82D6}" src="https://github.com/user-attachments/assets/8e5dbc45-6128-44aa-8ed2-fb8822de407f" />
+
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
